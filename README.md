@@ -1,5 +1,5 @@
 # hour
 
-[Try me](abdullaalwaki.github.io/hour/)
+[Try me](https://abdullaalwaki.github.io/hour/)
 
 ![page](./image/page.png)
